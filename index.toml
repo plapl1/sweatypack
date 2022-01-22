@@ -1,0 +1,155 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adventurez.toml"
+hash = "41749182d0fc43dffa4a33d9015a955c5f17257c229fa1c3746f2b921fcee312"
+metafile = true
+
+[[files]]
+file = "mods/bclib.toml"
+hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "32b7c2c7d4f8843d84cc7808a54e67f88b1a485f427bc8558e1d31a18c22ab0f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.toml"
+hash = "0eeaa700e23049bc936b9fd8e39bb0afa7786e4371e3d83635a4228cc9a3cc08"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "91d8be67b1842aa093f5c2d7fe276785e2e287f95f7f5e1a8f6dc41812f57429"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trinket-fabric.toml"
+hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "ef2185f898b5261b422365c7e9e75b3729da8a1917408ec7598c947bcb04630f"
+metafile = true
+
+[[files]]
+file = "mods/farsight.toml"
+hash = "cbd0287987aa00153aadf775d8741c05df51f7712bb4237657b8d6f0fc5b9a79"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "89f5ed5d28ea532046afeb96cb51ec7e450729e2e201011706cc0612a7d18c49"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "fefbb071ac416bf6da0bfa991d3e39336892f73b8b4758b8f39df3019b34ab86"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.toml"
+hash = "375c1f696d942ca57277177a38766420f52c2633f60147eef6b32db2c746b351"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
+metafile = true
+
+[[files]]
+file = "mods/megane.toml"
+hash = "a4324707ccc07f7197ca6c965ad0acaa2719b98341c0209f50b1bef0013cd69d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.toml"
+hash = "c30f1523e9c1c03b65d0a5f8b6820260f7054531c8f2011ac1e51c4b045141c8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "d6cf2898ad07a8b910defbb35e4194867145c0255cd96b7bf0cc0f7be81ffba3"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
+metafile = true
+
+[[files]]
+file = "mods/terra.toml"
+hash = "d02ed8d5c8e4dbe4a63f42e196d23b30d96d897eec364bf5d0f3db34dbd6ed18"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "0e0379dd8343af1400748b8b7d24bb7702fe7d8831857e0e09d903462d013691"
+metafile = true
+
+[[files]]
+file = "mods/voidz.toml"
+hash = "7ed1b58ebab9b2b21c5191840f5f88c49992556a71573d0ce87201f004516e7c"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-fabric.toml"
+hash = "2747c4b2e81d43b9a9f081fa138a411e5e74eb768a044357d05593afb0917f21"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "e06923217bbdcff91532f50823fb7e83b0bb9f859b5efa07356aacc145f42d88"
+metafile = true
+
+[[files]]
+file = "packwiz.exe"
+hash = "ea479b001157a489578cffcb3bb7219515934d6841f830979c9d4655b0f78d84"
