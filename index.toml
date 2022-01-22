@@ -16,6 +16,11 @@ hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
 metafile = true
 
 [[files]]
+file = "mods/betterend.toml"
+hash = "ae2e3e010cb44866be25254122b55fcb5ddc58229db3e5e3217ee91828f569c0"
+metafile = true
+
+[[files]]
 file = "mods/betternether.toml"
 hash = "32b7c2c7d4f8843d84cc7808a54e67f88b1a485f427bc8558e1d31a18c22ab0f"
 metafile = true
