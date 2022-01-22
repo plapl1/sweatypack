@@ -130,11 +130,6 @@ hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
 metafile = true
 
 [[files]]
-file = "mods/starlight.toml"
-hash = "3fba2d404a85b60f3f82e8014f2560dcf55cc62e5501309929171728e602de3e"
-metafile = true
-
-[[files]]
 file = "mods/terra.toml"
 hash = "d02ed8d5c8e4dbe4a63f42e196d23b30d96d897eec364bf5d0f3db34dbd6ed18"
 metafile = true
