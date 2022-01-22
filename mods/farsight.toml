@@ -1,0 +1,13 @@
+name = "Farsight[Forge/Fabric]"
+filename = "farsight.fabric-1.18-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/299/farsight.fabric-1.18-1.5.jar"
+hash-format = "murmur2"
+hash = "1886954478"
+
+[update]
+[update.curseforge]
+file-id = 3550299
+project-id = 495693

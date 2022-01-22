@@ -1,0 +1,13 @@
+name = "Terra"
+filename = "Terra-fabric-6.0.0-BETA+2b2255a5-shaded-mapped.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/6.0.0+2b2255a5/Terra-fabric-6.0.0-BETA+2b2255a5-shaded-mapped.jar"
+hash-format = "sha512"
+hash = "8d15e5cb504558863fdb4f03ef3a2b4b0063a0badb99d1ecd4b3febc827a38c25209c3a41d8fd4cb2c88822f502f0b0c877d9fe3e753f100f2043e1550a2eb89"
+
+[update]
+[update.modrinth]
+mod-id = "FIlZB9L0"
+version = "jL9oD6Ms"
