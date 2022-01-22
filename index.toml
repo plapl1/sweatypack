@@ -6,6 +6,11 @@ hash = "41749182d0fc43dffa4a33d9015a955c5f17257c229fa1c3746f2b921fcee312"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+metafile = true
+
+[[files]]
 file = "mods/bclib.toml"
 hash = "4381dc098074c8ebd2afa1f6d6a1a2196999912d66487755ba9e71b7c69133f0"
 metafile = true
