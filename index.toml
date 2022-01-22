@@ -31,6 +31,10 @@ hash = "4d3086d640c86bf3625ce9067d02d9ed586d23ff6bd3398655fd2fbfdce83de6"
 metafile = true
 
 [[files]]
+file = "mods/create-mc1.18.1_v0.4c.jar"
+hash = "386c48bf93d493ed8fdfd7ac79be52af28644050ac9f714551fc63839157a049"
+
+[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "91d8be67b1842aa093f5c2d7fe276785e2e287f95f7f5e1a8f6dc41812f57429"
 metafile = true
