@@ -1,0 +1,13 @@
+name = "Mining Dimensions [FABRIC]"
+filename = "MiningDimensions_Fabric-1.18.1-1.2.41.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/600/MiningDimensions_Fabric-1.18.1-1.2.41.jar"
+hash-format = "murmur2"
+hash = "2766952203"
+
+[update]
+[update.curseforge]
+file-id = 3611600
+project-id = 442921

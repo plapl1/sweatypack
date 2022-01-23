@@ -26,6 +26,11 @@ hash = "32b7c2c7d4f8843d84cc7808a54e67f88b1a485f427bc8558e1d31a18c22ab0f"
 metafile = true
 
 [[files]]
+file = "mods/blockus.toml"
+hash = "89112377c70b49d862bf43e0438b0ad3f079730c28e438a051790baf77da1ded"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.toml"
 hash = "cbd0287987aa00153aadf775d8741c05df51f7712bb4237657b8d6f0fc5b9a79"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 metafile = true
 
 [[files]]
@@ -115,6 +125,11 @@ hash = "a4324707ccc07f7197ca6c965ad0acaa2719b98341c0209f50b1bef0013cd69d"
 metafile = true
 
 [[files]]
+file = "mods/mining-dimensions-fabric.toml"
+hash = "3eccac53cfdc574ea9a161e3259d3c2b32b0c2a04387741a02656913ad572a61"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
@@ -127,6 +142,16 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.toml"
 hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "d8ba22ad0ade6d2260eb5d2d10492fba2f1c8ecf32c5994cb1eaf2a515338bf4"
 metafile = true
 
 [[files]]
