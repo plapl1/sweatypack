@@ -115,6 +115,11 @@ hash = "a4324707ccc07f7197ca6c965ad0acaa2719b98341c0209f50b1bef0013cd69d"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
+metafile = true
+
+[[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "c30f1523e9c1c03b65d0a5f8b6820260f7054531c8f2011ac1e51c4b045141c8"
 metafile = true
