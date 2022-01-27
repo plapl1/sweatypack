@@ -31,8 +31,18 @@ hash = "89112377c70b49d862bf43e0438b0ad3f079730c28e438a051790baf77da1ded"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "ae6a019d16e862a497c56900e3d7f20cc0c7cd794afd1d43cbcc04888e037d02"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/comforts-fabric.toml"
+hash = "ef7bf0be4ebd14bb8540ecd5c118a66361cd4006aed0bebf5f56805c59d4c74e"
 metafile = true
 
 [[files]]
@@ -60,13 +70,18 @@ hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "229b464d2e22521d35af774a44499cd71ee28280c851404b31f152c81e2e7d84"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "ef2185f898b5261b422365c7e9e75b3729da8a1917408ec7598c947bcb04630f"
+hash = "824112419026f5215f79792fb934ad68c369731cfbdc961c66b02b8d5ef6de5d"
 metafile = true
 
 [[files]]
@@ -130,6 +145,11 @@ hash = "3eccac53cfdc574ea9a161e3259d3c2b32b0c2a04387741a02656913ad572a61"
 metafile = true
 
 [[files]]
+file = "mods/ninjaphenixs-container-library.toml"
+hash = "719521886d6200c235904c06c242d0c256eb3584cc7389366d4f087c57a6d99a"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
@@ -145,8 +165,13 @@ hash = "fd1409e7804d658a0144b903be9db3304e7766c0d2f784d3222c211f53c58487"
 metafile = true
 
 [[files]]
+file = "mods/quick-shulker.toml"
+hash = "8f37e2302987a180c6f05b2f3c9a54fe45c6ddac46b70c10a06c0f8cb41e42fc"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3fe8faaf1f791842046d9d478c4b63962cc975378021ce91962933f140a5947e"
+hash = "b4d29b71ce3459201932530dee680778b5f5d82a51ecc58438c899e7daeae0b4"
 metafile = true
 
 [[files]]
@@ -162,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+metafile = true
+
+[[files]]
+file = "mods/storage-cabinet.toml"
+hash = "e416d314722acf56f7aa22a0270d6f8bb7cf4054d2162637c38a5f225ccba8dc"
 metafile = true
 
 [[files]]
